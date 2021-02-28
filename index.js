@@ -2,7 +2,7 @@ const { Client, MessageEmbed } = require('discord.js');
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const canvacord = require('canvacord');
-bot.login('ODExNjM4OTU0MDQ5NjY3MTYz.YC1Hrg.sDvWCuIaFns9Pyso3M0Rv0TSc5s');
+bot.login('');
 
 const randomanime = require('random-anime')
 const anime = randomanime.anime()
