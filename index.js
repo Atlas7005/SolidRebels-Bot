@@ -54,4 +54,4 @@ bot.on('ready', () => {
   	}, 3000);
 });
 
-bot.login(''); // Jeg kan bedst lide at smide login til sidst, dog burde det ikk ændre noget.
+bot.login(token); // Jeg kan bedst lide at smide login til sidst, dog burde det ikk ændre noget.
